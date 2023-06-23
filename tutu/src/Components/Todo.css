@@ -1,0 +1,68 @@
+.container
+{
+    width: 30%;
+    margin-top: 50px;
+    margin-left: 30%;
+ background-image: url('https://cdn.wallpapersafari.com/36/49/7W5fjv.jpg');
+    border: none;
+    padding: 30px;
+    border-radius: 10px;
+}
+h2
+{
+text-align: center;
+color: white;
+}
+.form-group
+{
+display: flex;
+    flex-direction: row;
+    margin: 10px;
+    width: auto;
+    margin-left: 30px;
+  
+   
+   
+   
+}
+button
+{
+   
+    background-color: transparent;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    width: 20%;
+    font-weight: bold;
+    cursor:pointer;
+}
+.list
+{
+    margin-top: 30px !important;
+
+}
+li{
+    margin-bottom: 15px;
+     margin-left: -12px;
+     background-color: black !important;
+     color: white;
+     border: none;
+     list-style-type: none;
+     border-radius: 5px;
+     padding: 10px;
+}
+.list-items
+{
+    display: flex;
+
+}
+.list-items  .list-item-list
+{
+    flex: 1;
+}
+.list-icons
+{
+   margin-left: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}
